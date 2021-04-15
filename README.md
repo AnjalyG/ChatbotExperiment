@@ -1,2 +1,2 @@
 # ChatbotExperiment
-A chatbot made using feedforward neural networks using Python,PyTorch,Numpy
+A chatbot made using feedforward neural networks using Python,PyTorch,Numpy,NLTK
